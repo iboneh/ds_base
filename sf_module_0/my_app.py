@@ -1,15 +1,6 @@
-"""
-## APP NAME
- 
-DESCRIPTION
- 
-Author: [YOUR NAME](https://URL_TO_YOU))\n
-Source: [Github](https://github.com/URL_TO_CODE)
-"""
 import streamlit as st
- 
-# Your imports goes below
- 
+import numpy as np
+
 def main():
     st.title("APP NAME")
     st.markdown("DESCRIPTION")
